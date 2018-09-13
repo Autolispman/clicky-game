@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "character": "jerry",
+    "url": "https://i.pinimg.com/originals/9b/a2/57/9ba25796112cad616be27e473ae1e149.jpg",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "character": "pokemon",
+    "url": "https://img.buzzfeed.com/buzzfeed-static/static/2015-04/7/18/enhanced/webdr12/enhanced-6820-1428444266-15.png",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "character": "Tom&Jerry",
+    "url": "https://i.pinimg.com/originals/19/b6/3c/19b63c6baa28dc6517ee7d620a0132a4.jpg",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "character": "Popeye",
+    "url": "https://i.pinimg.com/736x/2b/23/39/2b2339fe3d47ecea896ce14867f71a13--classic-cartoons-vintage-cartoons.jpg",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "character": "Daffey",
+    "url": "https://www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-duck-free.png",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "character": "Minnie",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Dd42yl-tCPWwXhHVzUniOPhYdENtfuJqs5RRJ5DnAQkvhWxixA",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "character": "Scooby",
+    "url": "http://erinsweeneydesign.com/wp-content/uploads/2014/03/1964883_726923827347640_695294356_n.jpg",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "character": "Sylvester",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd00APv0856hYqOr4i137_QnLHQV3hixBq7OdRVBepUumBVomt3Q",
+    "selected": false
+  },
+  {
+    "id": 9,
+    "character": "MightyMouse",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThhJf_ekq58xT3kFigYhLQ_Au09_p-Y_iYiDV80pLZ8YSr5cj",
+    "selected": false
+  },
+  {
+    "id": 10,
+    "character": "BugsBunny",
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZBpQmQToJmZIH00Hs-elJU-UVuCrsoQqeseeqJQDndff4b7tWJw",
+    "selected": false
+  },
+  {
+    "id": 11,
+    "character": "DonaldDuck",
+    "url": "http://www.imagefully.com/wp-content/uploads/2015/07/Donald-Duck-Disney-Cartoon-Laugh-Image.jpg",
+    "selected": false
+  },
+  {
+    "id": 12,
+    "character": "Rooster",
+    "url": "https://img.clipartxtras.com/c7af8d46ffe5c11d060fdd5f928712b6_best-25-cartoon-rooster-ideas-on-pinterest-overwatch-rooster-cartoon-drawing_379-449.jpeg",
+    "selected": false
+  }
+]
