@@ -38,7 +38,7 @@ class App extends Component {
         cartoons: cartoons,
         unselectedCartoons: newCartoons,
         mes: "Keep going",
-        curScore: this.state.curScore += 1,
+        curScore: this.state.curScore + 1,
         topScore: this.state.curScore > this.state.topScore ? this.state.curScore : this.state.topScore
       });
     }
